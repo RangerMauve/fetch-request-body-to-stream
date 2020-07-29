@@ -1,0 +1,27 @@
+{
+  "name": "fetch-request-body-to-stream",
+  "version": "1.0.0",
+  "description": "Convert fetch request body values to a readable stream. Normalizes strings / Buffers / BufferSource / Streams / Form Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browser": {
+    "fs": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/fetch-request-body-to-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "body",
+    "fetch"
+  ],
+  "author": "rangermauve <ranger@mauve.moe> (https://mauve.moe/)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/fetch-request-body-to-stream/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/fetch-request-body-to-stream#readme"
+}
